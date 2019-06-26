@@ -1,0 +1,16 @@
+﻿.mar-bot-5{
+    margin-bottom:5px;
+}
+.mar-bot-10 {
+    margin-bottom: 10px;
+}
+.panel-border {
+    padding: 1em;
+    border: 1px solid #dadada;
+    border-radius: 5px;
+    background-color:#fff;
+    margin-bottom:10px;
+}
+.selected-item{
+    background-color:#ffc140;
+}
